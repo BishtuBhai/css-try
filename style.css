@@ -1,0 +1,32 @@
+h1{color: aqua;
+   position: relative;
+   text-align: center;
+}
+body{ background-color: brown;}
+p{
+ font-style: bold;
+ margin: 10px;
+ font-weight: bolder;
+ background-color: black;
+color: beige;
+
+}
+
+body{
+    margin: 15pc;
+    background-size: 30pc;
+}
+
+.pra{
+ text-align: right;  
+ font-style: italic;
+background-color: brown;
+ color: chartreuse;
+}
+
+#pas{
+    color: yellowgreen;
+    font-size: x-small;
+    background-size: 20px;
+    background-color: brown;
+}
